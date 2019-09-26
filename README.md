@@ -1,1 +1,1 @@
-# LightBit_Miner
+# LightBit_Miner Windows
